@@ -1,7 +1,10 @@
-## Hi there 👋
+## Olá mundo, sou Gabriel Monteiro 👋
 
-Meu nome é Gabriel Monteiro. Sou Estudante de Engenharia de Software, atualmente aprendendo sobre HTML, CSS e JavaScript pela Driven education.
+Meu nome é Gabriel Monteiro. Sou Estudante de Engenharia de Software, atualmente aprendendo sobre HTML, CSS e JavaScript e React Native pela Driven education.
 
+- ✍ Você pode encontrar meus projetos aqui [Work in progress]
+- 🌱 Atualmente estou aprendendo React Native na Driven Education
+- 👯 Estou procurando colaborar em código aberto
 - 💬 Pergunte-me sobre ... Qualquer coisa
 - ⚡ Curiosidade: falo inglês fluente e estou estudando espanhol
 
