@@ -13,6 +13,12 @@ Meu nome é Gabriel Monteiro. Sou Estudante de Engenharia de Software, atualment
 
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 
+<br />
+<br />
+---
+
+Sempre escrevendo não apenas softwares escaláveis, mas também o código limpo que tornará a escalabilidade possível.
+
 Um código limpo e compreensível, como um bom poema deve ser.
 
 ⚡
